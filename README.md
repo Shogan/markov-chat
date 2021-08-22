@@ -4,7 +4,7 @@ A simple Typescript project that takes a list of input chat messages and generat
 
 An input order (length of the n-gram) is used as part of the generation. By default this is set to the length of the input word + 1.
 
-## Build
+## Build
 
 * yarn build
 
